@@ -5,7 +5,6 @@ Welcome to Ali Muhammed's profile!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 
 <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" align="right" width="150"/>
 
@@ -14,7 +13,7 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
-## 🛠 &nbsp;Tech Stack
+## <b>🛠 &nbsp;Tech Stack</b>
 
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

@@ -63,9 +63,7 @@ Welcome to Ali Muhammed's profile!
   </div>
 </div>
 
----
 
-<br />
 <h2> Find me </h2>
 <br/>
 

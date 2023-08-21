@@ -55,13 +55,6 @@ Welcome to Ali Muhammed's profile!
 </div>
 
 
-<div>
-<h2> Github Trophies </h2>
-    <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AliiMuhammed&theme=onedark)](https://github.com/AliiMuhammed/github-profile-trophy)
-  </div>
-</div>
 
 
 <h2> Find me </h2>

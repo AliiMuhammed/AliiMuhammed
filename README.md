@@ -14,7 +14,7 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

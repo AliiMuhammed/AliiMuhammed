@@ -62,7 +62,7 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 ---
 
 <br />
-## <b> Find me </b>
+<h1> Find me </h1>
 <br/>
 
 

@@ -4,9 +4,9 @@ Welcome to Ali Muhammed's profile!
 </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" align="right" width="150"/>
 </p> 
 
-<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" align="right" width="150"/>
 
 
 - 🌱 Having a keen interest in developing Products that can make a beneficial impact all over the world

@@ -5,22 +5,32 @@
 I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" width="150"/>
 
-- 🌱 Having a keen interest developing Products that can make a beneficial impact all over the world</p>
+- 🌱 Having a keen interest in developing Products that can make a beneficial impact all over the world</p>
 <p>
 
-  <img alt="C++" src="https://img.shields.io/badge/-C++-4382b3?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&logoColor=white" />
+  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- 
-<!--   <img alt="ReactNative" src=" https://img.shields.io/badge/-react--native-yellow.svg?style=flat-square&logo=express&logoColor=white" /> -->
- 
   <img alt="Express"  src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white"/>
   <br>
+  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
+  <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt= "Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
+  <br>
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-4382b3?style=flat-square&logo=c%2B%2B&logoColor=white" />
+ 
+ 
+  
+
  
   
 </p>
@@ -57,38 +67,11 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 ---
 
 <br />
-<h3>Find me on,</h3>
-<!--
-<a href="https://www.linkedin.com/in/ali-muhammed-dev/">
-  <img
-    align="left"
-    alt="Ali muhammed|Linkedin"
-    width="24px"
-    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Linkedin.svg"
-  />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100004223081202">
-  <img
-    align="left"
-    alt="ali muhammed | Facebook"
-    width="26px"
-    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Facebook.svg"
-  />
-</a>
-
-
-
-<a href="mailto:ali.muhammed.dev@gmail.com">
-  <img
-    align="left"
-    alt="ali muhammed | Gmail"
-    width="26px"
-    src="https://github.com/dakshkhetan/dakshkhetan/blob/master/Assets/Gmail.svg"
-  />
-</a> -->
+<h3>Find me </h3>
+<br />
 
 <a href="https://www.facebook.com/profile.php?id=100004223081202" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Facebook-512.png" height="80px" width="80" alt="facebook" align="center"></a>
 &ensp;
 <a href="https://www.linkedin.com/in/ali-muhammed-dev/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Linkedin-512.png" height="80px" width="80px" alt="Ali muhammed|Linkedin" align="center"></a>
-<a href="mailto:ali.muhammed.dev@gmail.com" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Google-512.png" height="80px" width="80px" style="margin-right:10px" alt="gmail" align="center"></a>
+&ensp;
+<a href="mailto:ali.muhammed.dev@gmail.com" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Google-512.png" height="80px" width="80px"  alt="gmail" align="center"></a>

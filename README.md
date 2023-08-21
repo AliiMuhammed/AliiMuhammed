@@ -27,7 +27,6 @@ Welcome to Ali Muhammed's profile!
   <img alt="Express"  src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>&nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
   <img alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <br>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;

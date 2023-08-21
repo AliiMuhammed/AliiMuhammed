@@ -2,18 +2,15 @@
 
 ---
 
-I'm Shafi, a Techie from <b>Hyderabad, India</b>.
+I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 <img src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align="right" width="150"/>
 
-- 🌱 Having a keen interest dveloping Products that can make an beneficial impact all over the world
-- ⚡ Hobbies: Love to  play AAA PC Titles🏸 & reading Productive Books to tackle Boredom </p>
+- 🌱 Having a keen interest dveloping Products that can make an beneficial impact all over the world</p>
 <p>
 
   <img alt="C++" src="https://img.shields.io/badge/-C++-4382b3?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
   <br>
-  <img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  
@@ -39,11 +36,11 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
 
 
 
-<a href="https://github.com/SaMs-Hub/">
+<a href="https://github.com/AliiMuhammed">
 
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=SaMs-Hub&&theme=github-dark-blue&background=130F40&text=D3D3D3&ring=7A7ADB&sideNums=FFFFFF" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SaMs-Hub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaMs-Hub&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=AliiMuhammed&&theme=github-dark-blue&background=130F40&text=D3D3D3&ring=7A7ADB&sideNums=FFFFFF" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliiMuhammed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliiMuhammed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SaMs-Hub"/>
 
 </a>
 </div>
@@ -53,7 +50,7 @@ I'm Shafi, a Techie from <b>Hyderabad, India</b>.
 <h2> Github Trophies </h2>
     <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaMs-Hub&theme=onedark)](https://github.com/SaMs-Hub/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliiMuhammed&theme=onedark)](https://github.com/AliiMuhammed/github-profile-trophy)
   </div>
 </div>
 

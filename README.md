@@ -91,4 +91,4 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 <a href="https://www.facebook.com/profile.php?id=100004223081202" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Facebook-512.png" height="80px" width="80" alt="facebook" align="center"></a>
 &ensp;
 <a href="https://www.linkedin.com/in/ali-muhammed-dev/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Linkedin-512.png" height="80px" width="80px" alt="Ali muhammed|Linkedin" align="center"></a>
-<a href="mailto:ali.muhammed.dev@gmail.com" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Google-512.png" height="80px" width="80px" alt="gmail" align="center"></a>
+<a href="mailto:ali.muhammed.dev@gmail.com" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Google-512.png" height="80px" width="80px" style="margin-right:10px" alt="gmail" align="center"></a>

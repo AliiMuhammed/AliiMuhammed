@@ -58,7 +58,7 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 
 <br />
 <h3>Find me on,</h3>
-
+<!--
 <a href="https://www.linkedin.com/in/ali-muhammed-dev/">
   <img
     align="left"
@@ -88,6 +88,7 @@ I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
   />
 </a> -->
 
-<a href="https://twitter.com/SaMs_Hub" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
+<a href="https://www.facebook.com/profile.php?id=100004223081202" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-facebook-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
 &ensp;
-<a href="https://linkedin.com/in/shafi-khan-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
+<a href="https://www.linkedin.com/in/ali-muhammed-dev/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Ali muhammed|Linkedin" align="center"></a>
+<a href="https://linkedin.com/in/shafi-khan-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-gmail-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>

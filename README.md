@@ -4,7 +4,8 @@
 
 I'm Ali, a Frontend developer from <b>Cairo, Egypt</b>.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" align="right" width="150"/>
+
 
 - 🌱 Having a keen interest in developing Products that can make a beneficial impact all over the world</p>
 <p>

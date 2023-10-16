@@ -53,6 +53,8 @@
 
 </a>
 </div>
+<img src="https://raw.githubusercontent.com/AliiMuhammed/AliiMuhammed/output/snake.svg" alt="Snake animation" />
+
 
 
 

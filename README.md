@@ -44,12 +44,12 @@
 
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliiMuhammed&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliiMuhammed&layout=compact&theme=dark)
+
 <a href="https://github.com/AliiMuhammed">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliiMuhammed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="390"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliiMuhammed&show_icons=true&theme=dark" width="350" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliiMuhammed&layout=compact&theme=dark" width="350" height="400" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliiMuhammed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="SaMs-Hub"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aliiimuhamed&layout=compact&theme=dark" width="350" height="400" />
 
 </a>
 </div>

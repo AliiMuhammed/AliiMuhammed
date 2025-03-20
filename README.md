@@ -11,7 +11,7 @@
 
 - 🌱 Having a keen interest in developing Products that can make a beneficial impact all over the world
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at &nbsp; <a href="https://ali-muhammed.netlify.app/" target="_blank">Here</a> &nbsp; to see some of the projects I've worked on.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
 ## <b>🛠 &nbsp;Tech Stack</b>
@@ -40,7 +40,6 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=AliiMuhammed&theme=tokyonight&no-frame=true&margin-w=15" width="800"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliiMuhammed&theme=dark" width="800"/>
 </a>
 </div>
 

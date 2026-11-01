@@ -11,7 +11,7 @@
 
 - 🌱 Having a keen interest in developing Products that can make a beneficial impact all over the world
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at &nbsp; <a href="https://ali-muhammed.netlify.app/" target="_blank">Here</a> &nbsp; to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at &nbsp; <a href="[https://www.ali-muhammed.tech/]" target="_blank">Here</a> &nbsp; to see some of the projects I've worked on.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
 ## <b>🛠 &nbsp;Tech Stack</b>
